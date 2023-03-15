@@ -35,7 +35,7 @@
  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   
-  <img align="right" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/H1nMzsCyfW8EFqiXX9/giphy.gif?cid=ecf05e47hqb3und62x27565ubltdk3ga3zva6uap3kiu2k3g&rid=giphy.gif&ct=g"/>
+  <img align="right" height="150" style="border-radius:50px;" src="https://media.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif"/>
 </div>
 
   ##
