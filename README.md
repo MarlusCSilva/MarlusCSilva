@@ -21,21 +21,10 @@
 <!-- Projetos em destaque -->
 ### Aqui tem alguns projetos em destaque
 <div>
-  <a href="https://github.com/MarlusCSilva/CPIFG.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=CPIFG.github.io&theme=aura&show_owner=true"/>
+  <a href="https://github.com/MarlusCSilva/my1repository">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=my1repository&theme=aura&show_owner=true"/>
   </a>
-  
-  <a href="https://github.com/MarlusCSilva/URI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=URI&theme=aura&show_owner=true"/>
-  </a>
-  
-  <a href="https://github.com/MarlusCSilva/GeoPortal-MarcoZero.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=GeoPortal-MarcoZero.github.io&theme=aura&show_owner=true"/>
-  </a>
-  
-  <a href="https://github.com/MarlusCSilva/calculadora.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=calculadora.github.io&theme=aura&show_owner=true"/>
-  </a>
+
 </div>
 
   ##
@@ -43,14 +32,10 @@
 <!-- Tecnologia mais ultilizadas -->
 ### Minhas tecnologias favoritas.
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+ 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="right" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif"/>
+  
+  <img align="right" height="150" style="border-radius:50px;" src="https://media.tenor.com/0NwMpVxPr7UAAAAC/banana.gif"/>
 </div>
 
   ##
