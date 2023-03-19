@@ -32,8 +32,9 @@
 <!-- Tecnologia mais ultilizadas -->
 ### Minhas tecnologias favoritas.
 <div style="display: inline_block"><br>
- 
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
   <img align="right" height="150" style="border-radius:50px;" src="https://media.tenor.com/k7v9dZiw6rsAAAAi/hello-kitty.gif"/>
 </div>
