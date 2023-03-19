@@ -58,3 +58,5 @@
 <div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarlusCSilva&theme=dark&hide_border=verdadeiro&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tbaxp4ucqx1ct045sq0aoctkx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
