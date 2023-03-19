@@ -56,3 +56,5 @@
 <div>
   <img src="https://gpvc.arturio.dev/MarlusCSilva" alt="profile views">
 <div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarlusCSilva&theme=dark&hide_border=verdadeiro&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
