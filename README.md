@@ -4,7 +4,7 @@
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&weight=900&size=18&duration=4000&pause=2000&color=8B67DB&width=435&lines=Meu+nome+%C3%A9+Marlus+Silva;Seja+bem+vindo(a)+ao+meu+perfil!;Amo+Python;Estou+sempre+em+busca+do+melhor" alt="Typing SVG" />
   </a>
-
+  
 </div>
 
 
