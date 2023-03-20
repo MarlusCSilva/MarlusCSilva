@@ -7,6 +7,12 @@
   
 </div>
 
+### Ouvindo Spotify 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tbaxp4ucqx1ct045sq0aoctkx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tbaxp4ucqx1ct045sq0aoctkx&redirect=true)
+
+
+
+
 
 <br>
 <!-- GitHub status -->
@@ -58,5 +64,3 @@
 <div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarlusCSilva&theme=dark&hide_border=verdadeiro&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tbaxp4ucqx1ct045sq0aoctkx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
