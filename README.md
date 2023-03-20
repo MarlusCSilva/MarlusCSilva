@@ -1,17 +1,16 @@
 <div>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&duration=4000&pause=1500&color=8B67DB&width=435&lines=Olá+👋"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&duration=4000&pause=1500&color=F76DEF&=435&lines=Olá+👋"/>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&weight=900&size=18&duration=4000&pause=2000&color=8B67DB&width=435&lines=Meu+nome+%C3%A9+Marlus+Silva;Seja+bem+vindo(a)+ao+meu+perfil!;Amo+Python;Estou+sempre+em+busca+do+melhor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&weight=900&size=18&duration=4000&pause=2000&color=F76DEF&=435&lines=Meu+nome+%C3%A9+Marlus+Silva;Seja+bem+vindo(a)+ao+meu+perfil!;Amo+Python;Estou+sempre+em+busca+do+melhor" alt="Typing SVG" />
   </a>
   
 </div>
 
-### Ouvindo Spotify 🎧🎤 
+<!-- Ouvindo Spotify -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F76DEF&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ouvindo+Spotify+🎧🎤" alt="Typing SVG" /></a> 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tbaxp4ucqx1ct045sq0aoctkx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tbaxp4ucqx1ct045sq0aoctkx&redirect=true)
-
-
-
 
 
 <br>
