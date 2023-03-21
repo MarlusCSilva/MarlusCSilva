@@ -27,7 +27,7 @@
 ### Aqui tem alguns projetos em destaque
 <div>
   <a href="https://github.com/MarlusCSilva/my1repository">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=my1repository&theme=aura&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=my1repository&theme=nord&show_owner=true"/>
   </a>
 
 </div>
