@@ -17,8 +17,8 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&count_private=true&show_icons=true&theme=aura"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlusCSilva&layout=compact&theme=aura"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&count_private=true&show_icons=true&theme=nord"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlusCSilva&layout=compact&theme=nord"/>
   </a>
  </div>
  
