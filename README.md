@@ -21,14 +21,7 @@
     
  </div>
  
-  ## 
-<!-- Projetos em destaque -->
-### Aqui tem alguns projetos em destaque
-<div>
-  <a href="https://github.com/MarlusCSilva/my1repository">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=my1repository&theme=nord&show_owner=true"/>
-  </a>
-
+ 
 </div>
 
   ##
@@ -40,7 +33,6 @@
    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   
   <img align="right" height="150" style="border-radius:50px;" src="https://media.tenor.com/k7v9dZiw6rsAAAAi/hello-kitty.gif"/>
