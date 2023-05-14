@@ -44,11 +44,4 @@
 </div>
   <a href="https://www.linkedin.com/in/marlus-silva-a7203b26a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
- ##
-### Visualizações
-<!-- Visualizações -->
-<div>
-  <img src="https://gpvc.arturio.dev/MarlusCSilva" alt="profile views">
-<div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarlusCSilva&theme=dark&hide_border=verdadeiro&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
