@@ -17,12 +17,10 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&count_private=true&show_icons=true&theme=nord"/>
-    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosneto726&count_private=false&theme=vue-dark&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosneto726&theme=vue-dark&layout=compact"/>
+  </a>
  </div>
- 
- 
-</div>
 
   ##
  
