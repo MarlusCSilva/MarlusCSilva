@@ -7,12 +7,6 @@
   
 </div>
 
-<!-- Ouvindo Spotify -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F76DEF&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ouvindo+Spotify+🎧🎤" alt="Typing SVG" /></a> 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tbaxp4ucqx1ct045sq0aoctkx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tbaxp4ucqx1ct045sq0aoctkx&redirect=true)
-
-
 <br>
 <!-- GitHub status -->
 <div>
