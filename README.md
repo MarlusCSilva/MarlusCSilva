@@ -2,7 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&duration=4000&pause=1500&color=F76DEF&=435&lines=Olá+👋"/>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&weight=900&size=18&duration=4000&pause=2000&color=F76DEF&=435&lines=Meu+nome+%C3%A9+Marlus+Silva;Seja+bem+vindo(a)+ao+meu+perfil!;Amo+Programar;Estou+sempre+em+busca+do+melhor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&weight=900&size=18&duration=4000&pause=2000&color=F76DEF&=435&lines=Meu+nome+%C3%A9+Marlus+Silva;Seja+bem+vindo(a)+ao+meu+perfil!;Estou+sempre+em+busca+do+melhor" alt="Typing SVG" />
   </a>
   
 </div>
