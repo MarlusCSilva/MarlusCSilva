@@ -4,11 +4,20 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/MarlusCSilva">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&theme=neon&show_icons=true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlusCSilva&theme=neon&show_icons=true&layout=compact"> 
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&theme=neon&show_icons=true" />
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlusCSilva&theme=neon&show_icons=true&layout=compact"> 
   
 </div> 
 
+<!-- Projetos em destaque -->
+### Aqui tem alguns projetos em destaque
+<div>
+  <a href="https://github.com/MarlusCSilva/PWII">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=PWII&theme=neon&show_icons=true"/>
+  </a>
+  
+  
+</div>
 
 
   ##
