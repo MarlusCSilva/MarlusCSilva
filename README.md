@@ -1,49 +1,33 @@
-<div>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&duration=4000&pause=1500&color=F7F7F7FF&=435&lines=Olá+👋"/>
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&weight=900&size=18&duration=4000&pause=2000&color=F7F7F7FF&=435&lines=Meu+nome+%C3%A9+Marlus+Silva;Seja+bem+vindo(a)+ao+meu+perfil!;Estou+sempre+em+busca+do+melhor!!" alt="Typing SVG" />
-  </a>
-  
-</div>
-
+## Meu nome é Marlus Silva, Esse é o meu perfil.
 <br>
+
 <!-- GitHub status -->
 <div>
-    <a href="https://github.com/MarlusCSilva">
-    <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" />
-    <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&show_icons=true&theme=midnight-purple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&show_icons=true" />
-</picture>
+  <a href="https://github.com/MarlusCSilva">
+    <img height="200em" class="color" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&count_private=true&show_icons=true&bg_color=30,000000,4169E1&title_color=fff&text_color=fff" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&layout=donut&bg_color=25,4169E1,000000&title_color=fff&text_color=fff" />
 
-  </a>
- </div>
-
+    
   ##
  
 <!-- Tecnologia mais ultilizadas -->
 ### Minhas tecnologias favoritas.
 <div style="display: inline_block"><br>
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xeQnir01pNhhNxrsO2iCtPU-NLfhfzaGL3QihKGscrvLXGJ5KCxzDbSS3zuK3pFZ18k&usqp=CAU" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   
-  <img align="right" height="150" style="border-radius:50px;" src="https://media.tenor.com/k7v9dZiw6rsAAAAi/hello-kitty.gif"/>
+  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933702989170999396/1073047200462016542/6md.gif">
 </div>
 
-  ##
+
 ### Redes sociais
 <!-- Redes sociais -->
 <div> 
