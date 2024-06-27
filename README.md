@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/MarlusCSilva">
     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&theme=neon&show_icons=true" />
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlusCSilva&theme=neon&show_icons=true&layout=compact"> 
+    <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlusCSilva&theme=neon&show_icons=true&layout=compact"> 
   
 </div> 
 
@@ -15,7 +15,9 @@
   <a href="https://github.com/MarlusCSilva/PWII">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=PWII&theme=neon&show_icons=true"/>
   </a>
-  
+   <a href="https://github.com/MarlusCSilva/PWB1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=PWB1&theme=neon&show_icons=true"/>
+  </a>
   
 </div>
 
