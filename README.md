@@ -10,7 +10,7 @@
 </div> 
 
 <!-- Projetos em destaque -->
-### Aqui tem alguns projetos em destaque
+### Aqui tem alguns projetos em destaque.
 <div>
   <a href="https://github.com/MarlusCSilva/PWII">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=PWII&theme=neon&show_icons=true"/>
