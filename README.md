@@ -4,10 +4,13 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/MarlusCSilva">
-    <img height="200em" class="color" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&count_private=true&show_icons=true&bg_color=30,000000,4169E1&title_color=fff&text_color=fff" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&layout=donut&bg_color=25,4169E1,000000&title_color=fff&text_color=fff" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&theme=neon&show_icons=true" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlusCSilva&theme=neon&show_icons=true&layout=compact"> 
+  
+</div> 
 
-    
+
+
   ##
  
 <!-- Tecnologia mais ultilizadas -->
