@@ -1,14 +1,16 @@
 ## Meu nome é Marlus Silva, Esse é o meu perfil.
 <br>
-
 <!-- GitHub status -->
+
+
 <div>
   <a href="https://github.com/MarlusCSilva">
     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&theme=neon&show_icons=true" />
     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlusCSilva&theme=neon&show_icons=true&layout=compact"> 
-  
+  </a>
 </div> 
 
+##
 <!-- Projetos em destaque -->
 ### Aqui tem alguns projetos em destaque.
 <div>
@@ -18,11 +20,12 @@
    <a href="https://github.com/MarlusCSilva/PWB1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=PWB1&theme=neon&show_icons=true"/>
   </a>
+
   
 </div>
 
-
   ##
+
  
 <!-- Tecnologia mais ultilizadas -->
 ### Minhas tecnologias favoritas.
@@ -41,7 +44,7 @@
   <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933702989170999396/1073047200462016542/6md.gif">
 </div>
 
-
+  ##
 ### Redes sociais
 <!-- Redes sociais -->
 <div> 
