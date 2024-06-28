@@ -16,11 +16,11 @@
 <!-- Projetos em destaque -->
 ### Aqui tem alguns projetos em destaque.
 <div>
-  <a href="https://github.com/MarlusCSilva/ProgramacaoWeb_1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=PWII&theme=neon&show_icons=true"/>
+  <a href="https://github.com/MarlusCSilva/Programacao-Web_1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Programacao-Web_1&theme=neon&show_icons=true"/>
   </a>
-   <a href="https://github.com/MarlusCSilva/PWB1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=PWB1&theme=neon&show_icons=true"/>
+   <a href="https://github.com/MarlusCSilva/Programacao-Web_2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Programacao-Web_2&theme=neon&show_icons=true"/>
   </a>
 
   
