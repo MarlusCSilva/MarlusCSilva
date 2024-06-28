@@ -5,10 +5,10 @@
 
 <div>
   <a href="https://github.com/MarlusCSilva">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&theme=highcontrast&show_icons=true" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarlusCSilva&theme=chartreuse-dark&show_icons=true" />
     </a>
   <a href="https://github.com/MarlusCSilva">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlusCSilva&theme=highcontrast&show_icons=true&layout=compact"> 
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlusCSilva&theme=chartreuse-dark&show_icons=true&layout=compact"> 
   </a>
 </div> 
 
@@ -17,10 +17,10 @@
 ### Aqui tem alguns projetos em destaque.
 <div>
   <a href="https://github.com/MarlusCSilva/Programacao-Web_1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Programacao-Web_1&theme=highcontrast&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Programacao-Web_1&theme=chartreuse-dark&show_icons=true"/>
   </a>
    <a href="https://github.com/MarlusCSilva/Programacao-Web_2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Programacao-Web_2&theme=highcontrast&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Programacao-Web_2&theme=chartreuse-dark&show_icons=true"/>
   </a>
 
   
