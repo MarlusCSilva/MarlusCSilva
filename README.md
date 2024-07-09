@@ -1,5 +1,8 @@
-## Meu nome é Marlus Silva, Esse é o meu perfil.
+## Meu nome é Marlus Silva, Este é o meu perfil.
 <br>
+
+## Em busca sempre de melhoras para o meu portfólio e desenvolvimento pessoal!
+
 <!-- GitHub status -->
 
 
