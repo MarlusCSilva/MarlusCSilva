@@ -34,17 +34,15 @@
  
 <!-- Tecnologia mais ultilizadas -->
 ### Minhas tecnologias favoritas.
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xeQnir01pNhhNxrsO2iCtPU-NLfhfzaGL3QihKGscrvLXGJ5KCxzDbSS3zuK3pFZ18k&usqp=CAU" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Nodejs"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"/></code>
   
 </div>
 
