@@ -19,8 +19,8 @@
 <!-- Projetos em destaque -->
 ### Aqui tem alguns projetos em destaque.
 <div>
-  <a href="https://github.com/MarlusCSilva/Programacao-Web_1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Programacao-Web_1&theme=neon&show_icons=true"/>
+  <a href="https://github.com/MarlusCSilva/project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=project&theme=neon&show_icons=true"/>
   </a>
    <a href="https://github.com/MarlusCSilva/Programacao-Web_2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Programacao-Web_2&theme=neon&show_icons=true"/>
