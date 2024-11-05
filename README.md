@@ -19,8 +19,8 @@
 <!-- Projetos em destaque -->
 ### Aqui tem alguns projetos em destaque.
 <div>
-  <a href="https://github.com/MarlusCSilva/project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=project&theme=neon&show_icons=true"/>
+  <a href="https://github.com/luizhenrick-programmer/Flor-Oficial.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizhenrick-programmer&repo=Flor-Oficial&bg_color=20,000000,1180CD&title_color=fff&text_color=fff"/>
   </a>
    <a href="https://github.com/MarlusCSilva/Programacao-Web_2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Programacao-Web_2&theme=neon&show_icons=true"/>
