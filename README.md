@@ -37,11 +37,11 @@
 
 <div align="center">
    <a href="https://github.com/MarlusCSilva/Gestao_Eventos">
-    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Gestao_Eventos&theme=neon&show_icons=true"/>
+    <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Gestao_Eventos&theme=neon&show_icons=true"/>
   </a>
     
    <a href="https://github.com/MarlusCSilva/Flor_Pitanga">
-    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Flor_Pitanga&theme=neon&show_icons=true"/>
+    <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlusCSilva&repo=Flor_Pitanga&theme=neon&show_icons=true"/>
   </a>
 
 </div>
